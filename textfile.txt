@@ -1,0 +1,4 @@
+This is my text file.
+This is the second line.
+.elif txet ym si sihT
+.enil dnoces eht si sihT
